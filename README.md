@@ -1,7 +1,7 @@
 ### IoT Experimental Project – Final Course Project
 
 ##### Team:
--  [Serica](https://github.com/sericakitty)
+-  [Serica](https://github.com/sericanyan)
 -  [Linh](https://github.com/LVTLinh)
 -  [Fang](https://github.com/fang-byte)
 
